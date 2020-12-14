@@ -61,7 +61,7 @@ class About extends Component {
 							</div>
 
 							<div className="url-demo-app">
-								Link official Website of App:	<a href="#">nDs-App</a> (We shall update soon)
+								Link official Website of App:	<a href="#">nDs-App</a> (This app is very large. We shall update soon)
 							</div>
 
 							<div className="des-detail">
