@@ -40,7 +40,7 @@ class Contact extends Component {
 								<ListItem>
 									<ListItemContent style={{fontSize: '25px', fontFamilly:'Anton'}}>
 									<i className="fa fa-globe" aria-hidden='true'/>
-									 &#160; http://ndscoop.tech & https://ndsapp.herokuapp.com/
+									 &#160; We shall update soon
 									</ListItemContent>
 								</ListItem>
 							</List>
