@@ -29,7 +29,7 @@ class Resume extends Component {
 	 					<h5>Email</h5>
 	 					<p>nDs.laivung@gmail.com</p>
 	 					<h5>Website</h5>
-	 					<p>http://ndscoop.tech & https://ndsapp.herokuapp.com/</p>
+	 					<p>https://ndsresume.herokuapp.com/ & https://ndscoop.github.io/ndsappbeta/</p>
 	 					<hr style={{borderTop:'3px solid #833fb2' , width :'92%'}}/>
 	 					</div>
 	 				</Cell>
