@@ -15,7 +15,7 @@ class Contact extends Component {
 	 					<p style={{width:'75%', margin:'auto', paddingTop:'1em'}} >You can lose anything only <strong><b>your bravery</b></strong> must be better than others.</p>
 	 				</Cell>
 					<Cell col={6}>
-						<h3>Contact Me</h3>
+						<h3>Contact nDs</h3>
 						<hr/>
 						<div className="contact-list">
 							<List>
